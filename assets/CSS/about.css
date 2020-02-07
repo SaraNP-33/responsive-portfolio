@@ -1,0 +1,28 @@
+.content{
+    position: absolute;
+    top:20%;
+    left: 15%;
+    border:1px solid #cccccc;
+    width: 900px;
+    height:400px;
+    padding:20px;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif ;
+    background-color: #ffffff;
+}
+
+h1{
+    color: #4aaaa5;
+    border-bottom: 2px solid #cccccc;
+}
+img{
+   float: left;
+   margin-right: 20px;
+   margin-bottom:5px;
+}
+P{
+    color:#cccccc;
+    shape-outside: square ();
+    margin:20px 30px 30px 0;
+    line-height:2.5em;
+}
